@@ -1,0 +1,3 @@
+[submodule "data/docs"]
+	path = data/docs
+	url = https://github.com/codetin/docs.git
